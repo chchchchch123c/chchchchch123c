@@ -26,5 +26,6 @@
 ---
 
 Gmail
-
-chchchchch123c@gmail.com
+<p style="text-decoration: none;">
+  chchchchch123c@gmail.com
+</p>
