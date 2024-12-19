@@ -2,12 +2,7 @@
 
 ✨ 앱 개발 공부 하고 있는 고1
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/5d82d8a2-bafb-4620-9d86-ee96df297beb" width="303" height="408"/></td>
-    <td><img src="https://github.com/user-attachments/assets/02df5e8e-d71e-4244-affa-c3e8bedbc487" width="299" height="303"/></td>
-  </tr>
-</table>
+![Group 8](https://github.com/user-attachments/assets/89148ec1-dc21-4223-952f-155100bd1f74)
 
 # 사용 언어 😎
 
