@@ -1,6 +1,7 @@
 # chchchchch123c 👀
 
 ✨ 앱 개발 공부 하고 있는 고2
+
 ![Group 9](https://github.com/user-attachments/assets/b134b010-92ea-425d-b0d7-b402ab9e8115)
 
 # 사용 언어 😎
