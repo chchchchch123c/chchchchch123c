@@ -4,14 +4,13 @@
 
 ![Group 9](https://github.com/user-attachments/assets/b134b010-92ea-425d-b0d7-b402ab9e8115)
 
-# 사용 언어 😎
+# 기술 스택 😎
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,c,python)](https://skillicons.dev)
 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,postman,fastapi)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr)](https://skillicons.dev)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chchchchch123c)](https://solved.ac/chchchchch123c/)
 # 소통해요 🔊
