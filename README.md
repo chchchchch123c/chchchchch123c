@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,postman,fastapi)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chchchchch123c)](https://solved.ac/chchchchch123c/)
 # 소통해요 🔊
